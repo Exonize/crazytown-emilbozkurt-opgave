@@ -91,9 +91,6 @@ ______________________________________________________________________
  <br>
 
 **// 5.4**<br>
-// Lav en knap på siden som gør at et billede dukker op 5 sekunder efter man har trykket.
-
-**// 5.4**<br>
 // Lav en boks med en synlig timer inden i på 30 sekunder som tæller op eller ned, men hver femte sekundt skal boksen skifte farve.
 
 ______________________________________________________________________
