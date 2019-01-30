@@ -1,0 +1,27 @@
+#overskrift{
+	font-size: 38px;
+	font-family: "Montserrat";
+	font-weight: 800;
+	color: black;
+	margin:0 auto;
+	text-align: center;
+}
+
+#underskrift{
+	font-size: 18px;
+	font-family: "Montserrat";
+	font-weight: 800;
+	color: black;
+	margin:0 auto;
+	text-align: center;
+}
+
+#niveau{
+	font-size: 14px;
+	font-family: "Montserrat";
+	font-weight: 800;
+	color: black;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 6px;
+}
